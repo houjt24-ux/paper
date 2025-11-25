@@ -1,1 +1,1 @@
-# We propose a Mixup data augmentation method that combines shared subspace information. The code will be made publicly available upon acceptance of the paper.
+# We propose an SSMixup data augmentation method that utilizes the shared subspace information in medical images for data enhancement. Our code will be made publicly available upon acceptance of the paper.
